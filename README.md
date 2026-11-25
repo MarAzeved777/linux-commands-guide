@@ -24,3 +24,10 @@ Criar uma referência simples para iniciantes aprenderem os primeiros comandos d
 ## 👨‍💻 Projeto
 
 Projeto criado para praticar Git, GitHub e conceitos básicos de Linux.
+
+## 🚀 Próximos passos
+
+- Adicionar mais comandos
+- Criar mais exercícios
+- Aprender Git
+- Aprender Linux
