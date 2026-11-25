@@ -31,3 +31,11 @@ Projeto criado para praticar Git, GitHub e conceitos básicos de Linux.
 - Criar mais exercícios
 - Aprender Git
 - Aprender Linux
+
+
+## 🚀 Próximos passos
+
+- Adicionar mais comandos
+- Criar mais exercícios
+- Aprender Git
+- Aprender Linux
